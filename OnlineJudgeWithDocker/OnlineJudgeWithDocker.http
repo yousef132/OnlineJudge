@@ -1,0 +1,6 @@
+@OnlineJudgeWithDocker_HostAddress = http://localhost:5185
+
+GET {{OnlineJudgeWithDocker_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
